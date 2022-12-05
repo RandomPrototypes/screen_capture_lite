@@ -3,7 +3,6 @@
 #include "ScreenCapture.h"
 #include <GLFW/glfw3.h>
 #include <iostream>
-#include <atomic>
 using namespace std::chrono_literals;
 
 void CheckStatus(GLuint obj, bool isShader)
